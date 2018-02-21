@@ -3,7 +3,7 @@
 Markdown checkboxes are readonly, this meas if you want to tick a checkbox you have to make own copy of the repository (fork it) and then edit a particular checkbox.
 
 # Prerequisites
-You must undesrstand basics of Git to be able to follow the instruction below.
+You must understand basics of Git to be able to follow the instruction below.
 
 # Instruction
 
